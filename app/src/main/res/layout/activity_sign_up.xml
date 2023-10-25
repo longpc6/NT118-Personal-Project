@@ -196,4 +196,16 @@
         android:src="@drawable/back_arrow_icon_png_9"
         />
 
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/btn_multilang"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="15dp"
+        android:background="@drawable/gg_oval_btn"
+        android:src="@drawable/ellipse3"
+        />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
